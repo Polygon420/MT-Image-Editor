@@ -9,7 +9,7 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/colton_frost/MT-Image-Editor",
+    "repository": "https://github.com/Polygon420/MT-Image-Editor?organization=Polygon420&organization=Polygon420",
     "success_url": "https://github.com/colton_frost/MT-Image-Editor",
     "env": {
         "TG_BOT_TOKEN": {
