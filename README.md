@@ -28,7 +28,7 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/colton_frost/MT-Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Polygon420/MT-Image-Editor?organization=Polygon420&organization=Polygon420)
 
 ### Deploy in your vps
 ```sh
