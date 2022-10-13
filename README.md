@@ -32,7 +32,7 @@
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
+git clone https://github.com/Colton_frost/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
